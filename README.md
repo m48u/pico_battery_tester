@@ -8,6 +8,6 @@ This is a simple project for using a Raspberry Pi Pico as a battery tester
 
 ## Wiring
 As shown in the screenshot (double check ports because this might be different in your setup)
-
+![Example Wiring](./raspberry-pi-pico-battery-checker-wiring-diagram.png)
 ## Have fun
 This is just a very basic program to display the voltage of a battery on the screen
