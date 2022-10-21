@@ -12,6 +12,7 @@ i2c=I2C(1,scl=Pin(SCL_Pin),sda=Pin(SDA_Pin),freq=200000)
 display = SSD1306_I2C(WIDTH,HEIGHT,i2c)
 
 Vin = ADC(27)
+
 def open_circ():
     display.text('-BATTERY TESTER-', 0, 0)
     display.text('Ready to test...', 0, 16)
