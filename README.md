@@ -1,4 +1,4 @@
-#Battery tester with  Raspberry Pi Pico
+# Battery tester with  Raspberry Pi Pico
 This is a simple project for using a Raspberry Pi Pico as a battery tester
 
 ## Requirements
@@ -6,8 +6,8 @@ This is a simple project for using a Raspberry Pi Pico as a battery tester
 - OLED Display
 - corresponding libraries
 
-##Wiring
+## Wiring
 As shown in the screenshot (double check ports because this might be different in your setup)
 
-##Have fun
-This is just a very basic program to display the voltage of a battery on the screen 
+## Have fun
+This is just a very basic program to display the voltage of a battery on the screen
